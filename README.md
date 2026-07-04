@@ -1,3 +1,11 @@
+> **QTAMP showcase fork** — this is [qtamp](https://qtamp.org)'s fork of
+> [0x5066/Winamp2000SP4](https://github.com/0x5066/Winamp2000SP4) by Eris Lund (0x5066),
+> used to showcase [qtWasabi](https://github.com/qtWasabi/qtWasabi), the
+> open-source reimplementation of the Wasabi/Maki Modern skin engine.
+> Only user-visible branding strings were changed (titlebar/tooltips now
+> read QTAMP); all art, code, and credit belong to the upstream authors.
+> License: MIT, unchanged from upstream.
+
 ## Nullsoft Winamp 2000 SP4
 This is a Winamp Modern skin which is based on Victhor's [Winamp Classic Modern](https://www.deviantart.com/victhor/art/Winamp-Classic-Modern-by-Victhor-805797724) developed by me and co-authored by @mirzi1, the source code is uploaded to GitHub to easily allow for anyone else to make mods out of this, or to simply help me out on some of the stupid things I haven't yet gotten around to fix or add. :)
 
